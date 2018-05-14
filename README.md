@@ -1,5 +1,5 @@
-# BiubiuTube
-:tv:
+# BiubiuTube  :tv:
+
 - [BiubiuTube](#biubiutube)
     - [Hierarchical Object Model](#hierarchical-object-model)
     - [Naming Convention](#naming-convention)
