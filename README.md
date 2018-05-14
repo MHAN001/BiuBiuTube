@@ -1,6 +1,5 @@
 # BiubiuTube
-![alert text][logo]
-[logo]:tv:
+:tv:
 - [BiubiuTube](#biubiutube)
     - [Hierarchical Object Model](#hierarchical-object-model)
     - [Naming Convention](#naming-convention)
