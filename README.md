@@ -26,7 +26,7 @@ To avoid naming conflicts between package and class, use `lower camel case` or `
 ### UI Elements
 Elements that might be accessed manually in `.java` should have a abbreviation prefix.
 
-#### Example
+#### Name Convention
 | class        | prefix | example     |
 |--------------|--------|-------------|
 | JLabel       | lbl    | lblTitle    |
