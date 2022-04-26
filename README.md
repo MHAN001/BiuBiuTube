@@ -39,4 +39,4 @@ Elements that might be accessed manually in `.java` should have a abbreviation p
 | JRadioButton | rb     | rbMale      |
 
 ## Explanation
-The original goal was to create an application that extends from both bilibili and youtube.However, our professor told us that our project need to have social responsibility. So we changed our program and let it take more social responsibilities by importing the non-profit department.
+Video platform for non-profit organizations
